@@ -1,3 +1,2 @@
 # Tetris
-I made this with pygame module
-please enjoy my tetris
+파이게임 모듈로 만든 테트리스 게임
